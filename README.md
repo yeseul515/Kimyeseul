@@ -1,2 +1,2 @@
-# sessac_test2
+# Kimyeseul
 파이썬
